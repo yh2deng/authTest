@@ -1,0 +1,23 @@
+{
+  "name": "authtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shutian",
+  "license": "ISC",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsrsasign": "^8.0.12",
+    "nconf": "^0.10.0",
+    "redis": "^2.8.0",
+    "underscore": "^1.9.1",
+    "uuid": "^3.3.2"
+  }
+}
