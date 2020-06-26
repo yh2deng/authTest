@@ -14,7 +14,7 @@
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "jsrsasign": "^8.0.12",
+    "jsrsasign": "^8.0.19",
     "nconf": "^0.10.0",
     "redis": "^2.8.0",
     "underscore": "^1.9.1",
