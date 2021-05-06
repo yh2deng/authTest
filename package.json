@@ -17,7 +17,7 @@
     "jsrsasign": "^8.0.12",
     "nconf": "^0.10.0",
     "redis": "^2.8.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "uuid": "^3.3.2"
   }
 }
